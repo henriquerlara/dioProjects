@@ -1,0 +1,15 @@
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/bin/Debug/net8.0/hotelBookingSystem
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/bin/Debug/net8.0/hotelBookingSystem.deps.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/bin/Debug/net8.0/hotelBookingSystem.runtimeconfig.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/bin/Debug/net8.0/hotelBookingSystem.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/bin/Debug/net8.0/hotelBookingSystem.pdb
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.AssemblyInfoInputs.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.AssemblyInfo.cs
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.sourcelink.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/refint/hotelBookingSystem.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.pdb
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/hotelBookingSystem.genruntimeconfig.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/hotelBookingSystem/hotelBookingSystem/obj/Debug/net8.0/ref/hotelBookingSystem.dll
