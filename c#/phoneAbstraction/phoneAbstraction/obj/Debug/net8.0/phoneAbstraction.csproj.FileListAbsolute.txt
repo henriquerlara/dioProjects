@@ -1,0 +1,15 @@
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/bin/Debug/net8.0/phoneAbstraction
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/bin/Debug/net8.0/phoneAbstraction.deps.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/bin/Debug/net8.0/phoneAbstraction.runtimeconfig.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/bin/Debug/net8.0/phoneAbstraction.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/bin/Debug/net8.0/phoneAbstraction.pdb
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.AssemblyInfoInputs.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.AssemblyInfo.cs
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.sourcelink.json
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/refint/phoneAbstraction.dll
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.pdb
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/phoneAbstraction.genruntimeconfig.cache
+/home/henrique/Documentos/GitHub/dioProjects/c#/phoneAbstraction/phoneAbstraction/obj/Debug/net8.0/ref/phoneAbstraction.dll
