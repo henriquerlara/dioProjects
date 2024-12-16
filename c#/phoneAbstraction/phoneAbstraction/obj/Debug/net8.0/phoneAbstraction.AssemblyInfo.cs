@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("phoneAbstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc420bfe564d431a2fe1549debedaed950617be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3e0ff0b7c2e2638ead4cb14e7315b5924fbe921")]
 [assembly: System.Reflection.AssemblyProductAttribute("phoneAbstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("phoneAbstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
