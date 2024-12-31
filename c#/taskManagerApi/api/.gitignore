@@ -1,0 +1,9 @@
+# Pastas geradas pela build
+bin/
+obj/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Configurações do VS Code
+.vscode/
