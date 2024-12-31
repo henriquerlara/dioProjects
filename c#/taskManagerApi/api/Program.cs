@@ -2,12 +2,12 @@ using Microsoft.EntityFrameworkCore;
 using API;
 using DotNetEnv;
 
-Env.Load(); // carregar as variáveis de ambiente do .env (no caso desse projeto, "ConnectionStrings__ConexaoPadrao" para conexãocom o banco local)
+Env.Load(); // load environment variables from .env file (in this project, "ConnectionStrings__DefaultConnection" for the local database connection)
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<TarefaContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("ConexaoPadrao")));
+builder.Services.AddDbContext<TaskContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
