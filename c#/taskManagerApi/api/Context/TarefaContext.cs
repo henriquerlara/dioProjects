@@ -18,20 +18,20 @@ namespace API
             #region Tarefa
             modelBuilder.Entity<Tarefa>(entity =>
             {
-                entity.ToTable("Tarefas"); // Nome da tabela no banco
-                entity.HasKey(x => x.Id); // Chave primária
+                entity.ToTable("Tarefas");
+                entity.HasKey(x => x.Id);
                 
                 entity.Property(x => x.Id)
-                      .ValueGeneratedOnAdd() // Auto incremento
-                      .HasColumnName("TarefaId") // Nome da coluna no banco
+                      .ValueGeneratedOnAdd() 
+                      .HasColumnName("TarefaId") 
                       .IsRequired();
 
                 entity.Property(x => x.Titulo)
-                      .HasMaxLength(255) // Limite de caracteres
+                      .HasMaxLength(255) 
                       .IsRequired();
 
                 entity.Property(x => x.Descricao)
-                      .HasMaxLength(1000); // Limite de caracteres (não obrigatório)
+                      .HasMaxLength(1000); 
 
                 entity.Property(x => x.Data)
                       .IsRequired(); 
