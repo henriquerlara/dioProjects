@@ -1,9 +1,17 @@
-# Pastas geradas pela build
+# Build directories
 bin/
 obj/
 
-# Arquivo de variáveis de ambiente
+# Environment variable file
 .env
 
-# Configurações do VS Code
+# IDE-specific files
+*.user
+*.csproj.user
+
+# VS Code configurations
 .vscode/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
