@@ -1,0 +1,9 @@
+horse-or-human/
+validation-horse-or-human/
+*.zip
+
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
