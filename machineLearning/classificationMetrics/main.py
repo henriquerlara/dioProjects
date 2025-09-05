@@ -1,3 +1,6 @@
+# Requirements:
+# pip install matplotlib numpy seaborn
+
 import math
 import matplotlib.pyplot as plt
 import numpy as np

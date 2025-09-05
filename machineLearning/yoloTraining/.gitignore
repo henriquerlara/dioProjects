@@ -1,0 +1,10 @@
+kaggle.json
+
+dataset_helmet/
+dataset_yolo/
+
+data.yaml
+
+results/
+
+yolov8n.pt
